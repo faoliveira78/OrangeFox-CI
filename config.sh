@@ -2,9 +2,9 @@
 
 # Device
 export FOX_BRANCH="fox_12.1"
-export DT_LINK="https://github.com/faoliveira78/android_device_oneplus_cheeseburger -b android-12.1"
+export DT_LINK="https://gitlab.com/faoliveira78/device_oneplus_cheeseburger_dumpling -b fox_12.1"
 
-export DEVICE="cheeseburger"
+export DEVICE="cheeseburger_dumpling"
 export OEM="oneplus"
 export DT_PATH="device/$OEM/$DEVICE"
 
