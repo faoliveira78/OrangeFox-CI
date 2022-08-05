@@ -74,7 +74,7 @@ fi
 
 # Pick patches for fox_12.1
 if [ "${FOX_BRANCH}" = "fox_12.1" ]; then
-	git -C system/vold fetch https://gerrit.twrp.me/android_system_vold refs/changes/40/5540/7
+	git -C system/vold fetch https://gerrit.twrp.me/android_system_vold refs/changes/40/5540/10
 	git -C system/vold cherry-pick FETCH_HEAD
 fi
 
