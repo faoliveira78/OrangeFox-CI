@@ -4,7 +4,7 @@
 export FOX_BRANCH="fox_12.1"
 export DT_LINK="https://gitlab.com/faoliveira78/device_oneplus_cheeseburger_dumpling -b fox_12.1"
 
-export DEVICE="cheeseburgerdumpling"
+export DEVICE="OP5x5T"
 export OEM="oneplus"
 export DT_PATH="device/$OEM/$DEVICE"
 
